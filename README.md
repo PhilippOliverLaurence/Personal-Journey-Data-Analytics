@@ -1,4 +1,4 @@
-# Personal-Journey-Data-Analytics
+# Personal-Journey-Data-Analytics: Jupyter
 
 # This project was part of my boot camp I took in order to:
 ####      firstly get to know the tool kit you need to become a data analyst and
