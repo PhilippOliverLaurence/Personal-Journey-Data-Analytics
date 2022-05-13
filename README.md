@@ -5,7 +5,7 @@
 ####       secondly to continue my pursue of a new 'Sherlock Holmes' of Data.
 
 
-# Instacart is an online grocery shop, which shares his order data (https://www.instacart.com/datasets/grocery-shopping-2017)
+# Instacart is an online grocery shop, which shares his order data.
 
 ## The objective:
 #### - Explorative Analysis of their customers and their ordering habbits
@@ -15,3 +15,5 @@
 #### - product data ( product name, price, department, ...)
 #### - order data (number of orders, day and time of order, user_id, ...)
 #### - customer (age, income, family status, ...)
+
+### Ressource:  (https://www.instacart.com/datasets/grocery-shopping-2017)
